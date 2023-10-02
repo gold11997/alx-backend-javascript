@@ -1,7 +1,7 @@
 # 0x03. ES6 data manipulation
 **JavaScript ES6**
 By: Johann Kerbrat, Engineering Manager at Uber Works
-![image](https://github.com/gold11997/alx-backend-javascript/assets/146364037/300a2cdf-eebe-458b-8849-f45a80c9a194)
+![image][(https://github.com/gold11997/alx-backend-javascript/assets/146364037/300a2cdf-eebe-458b-8849-f45a80c9a194)](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/6ab7bec4727cb5c91257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231002T105626Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aa1c6df034df54153a81f9186a92f26c28aadbc70c5076794c92cc2cd5e60b26)
 
 ## Resources
 ### Read or watch:
