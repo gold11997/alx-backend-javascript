@@ -6,29 +6,29 @@ By: Johann Kerbrat, Engineering Manager at Uber Works
 ## Resources
 ### Read or watch:
 
-** Array
-** Typed Array
-** Set Data Structure
-** Map Data Structure
-** WeakMap
+* Array
+* Typed Array
+* Set Data Structure
+* Map Data Structure
+* WeakMap
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, 
 **without the help of Google:**
-** How to use map, filter and reduce on arrays
-** Typed arrays
-** The Set, Map, and Weak link data structures
+* How to use map, filter and reduce on arrays
+* Typed arrays
+* The Set, Map, and Weak link data structures
 
 ## Requirements
-** All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-** Allowed editors: vi, vim, emacs, Visual Studio Code
-** All your files should end with a new line
-** A README.md file, at the root of the folder of the project, is mandatory
-** Your code should use the js extension
-** Your code will be tested using Jest and the command npm run test
-** Your code will be verified against lint using ESLint
-** Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
-** All of your functions must be exported
+* All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
+* Allowed editors: vi, vim, emacs, Visual Studio Code
+* All your files should end with a new line
+* A README.md file, at the root of the folder of the project, is mandatory
+* Your code should use the js extension
+* Your code will be tested using Jest and the command npm run test
+* Your code will be verified against lint using ESLint
+* Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
+* All of your functions must be exported
 
 ## Setup
 
@@ -68,9 +68,9 @@ Create a function named getListStudents that returns an array of objects.
 Each object should have three attributes: id (Number), firstName (String), and location (String).
 
 The array contains the following students in order:
-** Guillaume, id: 1, in San Francisco
-** James, id: 2, in Columbia
-** Serena, id: 5, in San Francisco
+* Guillaume, id: 1, in San Francisco
+* James, id: 2, in Columbia
+* Serena, id: 5, in San Francisco
 
 `bob@dylan:~$ cat 0-main.js
 import getListStudents from "./0-get_list_students.js";
@@ -88,9 +88,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 0-get_list_students.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 0-get_list_students.js
 
 ## 1. More mapping
 
@@ -117,9 +117,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 1-get_list_student_ids.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 1-get_list_student_ids.js
 
 ## 2. Filter
 
@@ -147,9 +147,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 2-get_students_by_loc.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 2-get_students_by_loc.js
 
 ##3. Reduce
 Create a function getStudentIdsSum that returns the sum of all the student ids.
@@ -174,9 +174,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 3-get_ids_sum.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 3-get_ids_sum.js
 
 ## 4. Combine
 
@@ -227,9 +227,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 4-update_grade_by_city.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 4-update_grade_by_city.js
 
 ## 5. Typed Arrays
 
@@ -258,9 +258,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 5-typed_arrays.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 5-typed_arrays.js
 
 ## 6. Set data structure
 Create a function named setFromArray that returns a Set from an array.
@@ -279,9 +279,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 6-set.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 6-set.js
 
 ## 7. More set data structure
 Create a function named hasValuesFromArray that returns a boolean if all the elements in the array exist within the set.
@@ -304,9 +304,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 7-has_array_values.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 7-has_array_values.js
 
 ## 8. Clean set
 Create a function named cleanSet that returns a string of all the set values that start with a specific string (startString).
@@ -329,9 +329,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 8-clean_set.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 8-clean_set.js
 
 ## 9. Map data structure
 Create a function named groceriesList that returns a map of groceries with the 
@@ -363,9 +363,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 9-groceries_list.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 9-groceries_list.js
 
 ## 10. More map data structure
 Create a function named updateUniqueItems that returns an updated map for all items with initial quantity at 1.
@@ -404,9 +404,9 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 10-update_uniq_items.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 10-update_uniq_items.js
 
 ## 11. Weak link data structure
 Export a const instance of WeakMap and name it weakMap.
@@ -450,6 +450,6 @@ bob@dylan:~$`
 
 ### Repo:
 
-** GitHub repository: alx-backend-javascript
-** Directory: 0x03-ES6_data_manipulation
-** File: 100-weak.js
+* GitHub repository: alx-backend-javascript
+* Directory: 0x03-ES6_data_manipulation
+* File: 100-weak.js
