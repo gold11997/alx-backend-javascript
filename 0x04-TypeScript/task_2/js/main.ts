@@ -1,4 +1,5 @@
 // task_5 Advanced types Part 1
+// task_5 Advanced types Part 1
 interface DirectorInterface {
   workFromHome(): string
 
